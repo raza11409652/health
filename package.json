@@ -1,0 +1,23 @@
+{
+    "name": "blockchain-health-care-app",
+    "version": "1.0.0",
+    "description": "blockchain health care project created on truflle",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "author": {
+        "name": "hackdroid",
+        "email": "dev.hackdroid@gmail.com"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.3.1"
+    }
+}
